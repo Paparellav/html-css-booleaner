@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Ubuntu', sans-serif;
-    
+main {
+    margin-left: 10px;
+
 }
 
 .container-header {
@@ -15,6 +15,8 @@ body {
     background-color: #4ea0ff;
     background-image: url("file:///C:/Boolean/html-css-booleaner/img/pattern.png");
     background-size: 25%;
+    margin-bottom: 10px;
+    
     
 }
 
@@ -22,4 +24,61 @@ body {
     width: 150px;
     margin-top: 55px;
     margin-left: 5px;
+}
+
+#title {
+    font-size: 60px;
+}
+
+.div-grey {
+    color: #8e8e8e;
+}
+
+a {
+    color: #2eaee6;
+    text-decoration: none;
+}
+
+.paragraph {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.yellow-back {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+
+thead {
+    background-color: #20a9e5;
+}
+
+.azure {
+    background-color: #b1e5f2;
+}
+
+.prima-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    background-image: url("file:///C:/Boolean/html-css-booleaner/img/monitor.jpg");
+    background-size: cover;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.seconda-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    background-image: url("file:///C:/Boolean/html-css-booleaner/img/graph.jpg");
+    background-size: cover;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
 }
