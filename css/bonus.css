@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+
+.container-header {
+    width: 100%;
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size: 25%;
+    margin-bottom: 10px;
+    
+    
+}
+
+.logo {
+    width: 150px;
+    margin-top: 55px;
+    margin-left: 5px;
+}
+
+#title {
+    font-size: 60px;
+}
+
+.div-grey {
+    color: #8e8e8e;
+}
+
+a {
+    color: #2eaee6;
+    text-decoration: none;
+}
+
+.paragraph {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.yellow-back {
+    background-color: yellow;
+}
+
+ul {
+    padding-left: 15px;
+    margin-bottom: 30px;
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+
+}
+
+td {
+    width: 450px;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.azure {
+    background-color: #b1e5f2;
+}
+
+.prima-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+.seconda-image {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    color: white;
+    padding-left: 5px;
+    padding-top: 5px;
+}
