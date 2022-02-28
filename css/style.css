@@ -13,7 +13,8 @@ body {
     width: 100%;
     height: 100px;
     background-color: #4ea0ff;
-        
+    background-image: url("file:///C:/Boolean/html-css-booleaner/img/pattern.png");
+    background-size: 25%;
     
 }
 
